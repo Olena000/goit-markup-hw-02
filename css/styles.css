@@ -125,7 +125,11 @@ a {
 /*==========TEAM==========*/
 
 .team {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
+}
+
+.team-item {
+  background-color: #fff;
 }
 
 .team-title {
